@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @koji0919
 - 👀 I’m interested in VR and EMG
-- 🌱 I’m currently learning Python and Unity regarding EMG processing
+- 🌱 I’m currently learning android app with "android studio"
 
 
 <!---
